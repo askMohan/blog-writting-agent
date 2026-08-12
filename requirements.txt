@@ -1,0 +1,11 @@
+langchain-ollama
+langchain
+langchain-community
+python-dotenv
+ipython
+langgraph
+ipykernel
+wikipedia
+arxiv
+langgraph-checkpoint-postgres
+psycopg[binary, pool]
